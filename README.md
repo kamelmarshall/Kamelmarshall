@@ -1,12 +1,12 @@
-# Hi, I'm Kamel 👋
+# Hi, I'm Kamel 
 
-## 📊 Data Analyst | Excel | SQL | Data Visualization
+## Data Analyst | Excel | SQL | Data Visualization
 
 I’m a data analyst focused on turning raw data into clear, actionable insights. I build dashboards and perform analysis using tools like Google Sheets, Excel, and SQL.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 📈 Sales Dashboard
 - Built using Excel/Google Sheets
@@ -20,7 +20,7 @@ I’m a data analyst focused on turning raw data into clear, actionable insights
 
 ---
 
-## 🛠 Skills
+## Skills
 - Data Cleaning
 - Pivot Tables
 - Data Visualization
@@ -29,7 +29,7 @@ I’m a data analyst focused on turning raw data into clear, actionable insights
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - LinkedIn: www.linkedin.com/in/kamel-marshall-5b59ab348
 
 <!--
